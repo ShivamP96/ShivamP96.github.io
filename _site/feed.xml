@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Shivam's Website</title>
   <subtitle>A collection of random things/discoveries and my resume</subtitle>
-  <updated>2023-01-03T00:24:42-05:00</updated>
+  <updated>2023-01-13T00:35:01-05:00</updated>
   <author>
     <name>Shivam Patel</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,43 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Resume</title>
+    <link href="http://localhost:4000/posts/RESUME/" rel="alternate" type="text/html" title="Resume" />
+    <published>2023-01-13T00:19:00-05:00</published>
+  
+    <updated>2023-01-13T00:19:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/RESUME/</id>
+    <content src="http://localhost:4000/posts/RESUME/" />
+    <author>
+      <name>Shivam Patel</name>
+    </author>
+
+  
+    
+    <category term="Resume" />
+    
+    <category term="Software" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
