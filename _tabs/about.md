@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Welcome to my personal website traveller <br />
+## Welcome To My Personal Website <br />
 
 I'm a Software Developer based out of Canada. I have a background in Physics that I attained from McMaster University. <br />
 
