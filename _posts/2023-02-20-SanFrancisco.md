@@ -97,11 +97,37 @@ Ever wanted a pet dog, well you could have one in 1999 for $2000
 Tilt your Head to read where the term "robot"
 originated from
 
+| ![IBM Computer](/assets/img/ComputerHistoryMuseum/IMG_2122.jpeg) |
+| :--------------------------------------------------------------: |
+|                          _IBM Computer_                          |
+
+Take at look at one of IBM's first family computers
+<br>
+
 | ![Pixar](/assets/img/ComputerHistoryMuseum/IMG_2121.jpeg) |
 | :-------------------------------------------------------: |
 |                      _Pixar Machine_                      |
 
 Ever wondered how your favorite, Pixar movies were made, they used this machine to do all of the computation.
+<br>
+
+| ![Playstation](/assets/img/ComputerHistoryMuseum/IMG_2127.jpeg) |
+| :-------------------------------------------------------------: |
+|                         _Playstation 1_                         |
+
+I loved Playing on the PS1 as a kid, we hacked the system and were able to play a bunch of normal games on CD's.
+
+At the time of writing this, I have the latest PS5. Its been a long time eh...
+
+<br>
+
+| ![Playstation Sony](/assets/img/ComputerHistoryMuseum/IMG_2128.jpeg) |
+| :------------------------------------------------------------------: |
+|                        _PlayStation Creation_                        |
+
+Read this cool fact, I bet you didn't know that.
+
+<br>
 
 | ![Web](/assets/img/ComputerHistoryMuseum/IMG_2130.jpeg) |
 | :-----------------------------------------------------: |
