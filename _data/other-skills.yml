@@ -1,0 +1,11 @@
+- name: Linux
+  percentage: 95
+  color: info
+
+- name: NodeJS
+  percentage: 80
+  color: dark
+
+- name: Adobe Photoshop
+  percentage: 70
+  color: success
