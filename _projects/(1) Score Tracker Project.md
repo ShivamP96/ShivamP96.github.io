@@ -2,10 +2,14 @@
 name: Score Tracker
 tools: [TypeScript, ReactJS, Sports]
 image: /assets/img/score-tracker.gif
+style: fill
+color: primary
 description: Simple Score Tracker made with TS and React to give you the ablity to keep count when playing sports with others. Utilizes local storage.
 ---
 
-# Score Tracker
+# [Score Tracker](https://shivampatel.ca/score-tracker/)
+
+[Click Here to see the project!](https://shivampatel.ca/score-tracker/)
 
 The Score Tracker Project is a simple tracker for when you want to play 1 on 1 sports or team 1 on 1 sports!
 Use this Project to your own liking!
