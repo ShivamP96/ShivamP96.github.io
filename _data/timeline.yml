@@ -1,17 +1,24 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Full Stack Developer, Peel District School Board, Canada
+  from: April 2023
+  to: Present
+  description: Developed new modules and optimized features in Java, SpringBoot, Angular and OracleDB to support the ongoing needs of over 150,000 students and staff. Maintained security and updated code with outdated architecture using JUnit to test and clean coding principals, ensuring that business logic is separate from user interaction, databases and external services. Modified existing Oracle print servers using PL/SQL and Java in order to guarantee future compatibility with servers. Implemented urgent fixes for bugs and updated the Angular front-end and Spring Boot backend allowing users to have continuous and uninterrupted use of systems. Lead a team of developers to implement new features from start to finish via clean architecture principals
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Full Stack Developer, Mazlite, Toronto, Canada
+  from: November 2021
+  to: April 2023
+  description: Maximized the usage of limited buffers on the camera with optimized Python functions to save data to the RAM. Enabling the system to capture at 250 FPS vs 60 FPS while simultaneously minimizing toxic waste from prolonged spray use. Successfully implemented a highly flexible camera control library with support for multiple cameras through the use of Abstract Factories. Resulting in seamless integration from a wide range of cameras with the current system. Researched, architected and implemented a system that uses onboard GPIO pins to take signals from automotive robots and interfaces with commercial PLC boards. System captured data at a 100% success rate. Built websocket middleware to establish a connection to the front-end in Python and FastAPI, allowing the system to significantly reduce latency and ensure real-time capabilities. Created reusable Angular code for the front-end in Typescript that allowed for faster development and implementation. Implemented the Paho-MQTT library with SSL to bring rapid and low bandwidth communication via cloud servers and wireless communications. Reduced signal interference by 50% from the previous implementation. Created microservices like heartbeat that can auto send data, allowing our internal team to keep track of the health of our systems in client environments
+
+- title: Web Dev/Analyst, TD Securites, Toronto, Canada
+  from: August 2020
+  to: November 2021
+  description: Reconciled $2,000,000 worth of lost precious metals using Python and libraries like Pandas. Created SpringBoot backend using software design principles to provide a robust API that will serve the front-end
+
+- title: Junior Full Stack Developer, MedEssist, Toronto, Canada
+  from: July 2020
+  to: Devember 2020
+  description: Built the front-end skeleton in ReactJS and utilized Ruby On Rails for the backend to get the company up and running. Developed the backend of the vaccine booking platform making functions that follow basic CRUD principals
+
+- title: Honours BSc. Physics
+  from: 2014
+  to: 2019
+  description: Studied nuclear physics and high level mathematics. Worked on many coding projects involving C, arduino, Java.

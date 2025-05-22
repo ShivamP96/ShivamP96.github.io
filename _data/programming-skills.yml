@@ -1,11 +1,21 @@
+#secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
+
+- name: JavaScript/TS
+  percentage: 95
+  color: warning
+
 - name: HTML5/CSS3
   percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color:
+  color: success
 
 - name: Python
-  percentage: 70
+  percentage: 90
+  color: secondary
+
+- name: Java
+  percentage: 80
+  color: danger
+
+- name: OracleDB/PLSQL
+  percentage: 75
   color: secondary
