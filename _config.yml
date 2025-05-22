@@ -1,7 +1,7 @@
 ### Site Settings ###
-title: portfolYOU
+title: Shivam's Website
 description: >-
-  Welcome to my website!
+  Welcome to my website! Take a look and enjoy using some of my apps :D
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 remote_theme: yousinix/portfolYOU
 open_new_tab: false # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -22,9 +22,9 @@ author:
   image: https://i.imgur.com/uyDNQnn.jpg
   #behance: your_username
   # dribbble          : your_username
-  #email: username@domain.com
+  email: shivam@shivampatel.ca
   #facebook: your_username
-  #github: your_username
+  github: shivamp96
   # gitlab            : your_username
   # instagram         : your_username
   # kaggle            : your_username
